@@ -1,0 +1,9 @@
+Installation Steps
+
+1) npm install expressjs
+2)goto auth0.com and Create a new client 
+3) Copy and paste client Id and Secret key  in .env file
+4) node app.js
+5) Application loads in http://localhost:3000
+6) click login button 
+7) Click on login with Google button 
